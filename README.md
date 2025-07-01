@@ -6,4 +6,4 @@ This project contains Verilog implementations of a 4-bit Ripple Carry Adder usin
 
 Each implementation includes a testbench to verify functionality.
 
-## 🛠️ File Structure
+
