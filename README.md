@@ -1,2 +1,9 @@
-# 4bit-ripple-carry-adder
-Verilog implementation of a 4-bit Ripple Carry Adder in three modeling styles: Behavioral, Dataflow, and Structural. Includes testbenches for simulation and comparison.
+## 📘 Overview
+This project contains Verilog implementations of a 4-bit Ripple Carry Adder using:
+- **Behavioral modeling**
+- **Dataflow modeling**
+- **Structural modeling**
+
+Each implementation includes a testbench to verify functionality.
+
+## 🛠️ File Structure
